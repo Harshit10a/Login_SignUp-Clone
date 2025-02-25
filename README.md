@@ -10,7 +10,7 @@ This is a simple login and signup page clone built using **ReactJS**. It is a ba
 
 ## Demo
 You can view the demo of the project by following this link:  
-**[Demo Link](#)** (Replace with your actual demo link if hosted)
+**[Demo Link](https://harshit10a.github.io/Login_SignUp-Clone/)**
 
 ### Screenshots:
 
